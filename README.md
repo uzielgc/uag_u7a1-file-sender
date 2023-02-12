@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ```
 
 
-[![](media/enc.png)](media/filet.mov "Video Demo")
+[![](media/filet.png)](media/filet.mov "Video Demo")
 
 * Click en la imagen para ir al video demo. (media/filet.mov)^
 
