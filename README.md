@@ -76,10 +76,11 @@ python src/client.py
 pip install -r requirements.txt
 ```
 
+[![](media/filet-002.png)](media/filet2.mov "Video Demo")
 
+* Click en la imagen para ir al video demo. (media/filet2.mov)^
 
-
-
+-----------------------------------
 
 Evidencia versión 1
 
