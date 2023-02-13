@@ -7,6 +7,9 @@
 
 ```
 src/
+  |__ node.py
+
+src_v1/
   |-- client.py
   |__ server.py
 
